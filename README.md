@@ -13,11 +13,6 @@ Estou constantemente desenvolvendo minhas habilidades técnicas por meio de proj
 - 🎓 Graduando em Engenharia de Software.
 - 💻 Estudando e desenvolvendo projetos na área de tecnologia.
 - 🌐 Interesse em desenvolvimento Web e Full Stack.
-- 🧠 Aprimorando conhecimentos em lógica de programação e desenvolvimento de sistemas.
-- 🏆 Participante do Hackathon UniCesumar.
-- 🌎 Inglês avançado.
-
----
 
 ## 🛠️ Tecnologias e habilidades
 
@@ -62,13 +57,7 @@ Aplicação desenvolvida com foco em gerenciamento de estoque e orçamento, apli
 - HTML5
 - CSS3
 - JavaScript
-- SQL
-
-### 🏆 Hackathon UniCesumar
-
-Participação em maratona de programação voltada à criação de soluções digitais, desenvolvimento de mockups, trabalho em equipe e arquitetura de soluções.
-
----
+- SQL Supabase
 
 ## 🎓 Formação
 
