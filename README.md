@@ -1,34 +1,34 @@
-# 👋 Olá! Eu sou João Vitor Oliveira da Silva
+# 👋 Hi! I'm João Vitor Oliveira da Silva
 
 ### 💻 Software Engineering Student | Aspiring Full Stack Developer
 
-🎓 Estudante de Engenharia de Software na UniCesumar (4º semestre), com foco em desenvolvimento de sistemas, programação e construção de soluções digitais.
+🎓 Software Engineering student at UniCesumar (4th semester), focused on software development, programming, and building digital solutions.
 
-Estou constantemente desenvolvendo minhas habilidades técnicas por meio de projetos práticos, estudos e participação em eventos de tecnologia. Tenho interesse em desenvolvimento Full Stack, arquitetura de software e criação de aplicações modernas.
+I'm constantly developing my technical skills through hands-on projects, continuous learning, and participation in technology events. I'm particularly interested in Full Stack Development, Software Architecture, and building modern applications.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🎓 Graduando em Engenharia de Software.
-- 💻 Estudando e desenvolvendo projetos na área de tecnologia.
-- 🌐 Interesse em desenvolvimento Web e Full Stack.
+- 🎓 Currently pursuing a Bachelor's degree in Software Engineering.
+- 💻 Learning and developing practical software projects.
+- 🌐 Interested in Web Development and Full Stack Development.
 
-## 🛠️ Tecnologias e habilidades
+## 🛠️ Technologies & Skills
 
-### Linguagens de programação
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,js" />
 </p>
 
-### Desenvolvimento Web
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Banco de dados e ferramentas
+### Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,supabase" />
@@ -37,50 +37,49 @@ Estou constantemente desenvolvendo minhas habilidades técnicas por meio de proj
 - SQL
 - Supabase
 
-### Modelagem 3D e visualização
+### 3D Modeling & Visualization
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
-- Modelagem 3D com Blender (curso certificado).
+- 3D Modeling with Blender (Certified Course).
 
 ---
 
-## 💡 Projetos
+## 💡 Projects
 
-### 📦 Sistema de Cadastro de Produtos
+### 📦 Product Management System
 
-Aplicação desenvolvida com foco em gerenciamento de estoque e orçamento, aplicando lógica de programação e controle de dados.
+An application developed for inventory and budget management, applying programming logic and data management concepts.
 
-**Tecnologias utilizadas:**
+**Technologies Used:**
 - HTML5
 - CSS3
 - JavaScript
-- SQL Supabase
+- SQL
+- Supabase
 
-## 🎓 Formação
+## 🎓 Education
 
-**Engenharia de Software — UniCesumar**
+**B.Sc. in Software Engineering — UniCesumar**
 
-2025 – Atualmente
-
----
-
-## 🌎 Idiomas
-
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Avançado
-- 🇪🇸 Espanhol — Básico
+2025 – Present
 
 ---
 
-## 📫 Entre em contato
+## 🌎 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
+- 🇪🇸 Spanish — Basic
+
+---
+
+## 📫 Get in Touch
 
 <p align="left">
   <a href="mailto:jvos15032006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<p align="center">
-  <i>"Always learning, building and improving."</i>
 </p>
