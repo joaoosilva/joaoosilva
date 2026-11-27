@@ -1,46 +1,104 @@
+# 👋 Olá! Eu sou João Vitor Oliveira da Silva
 
-<h1 align="center">Hey, I'm João 👋</h1>
+### 💻 Software Engineering Student | Aspiring Full Stack Developer
 
-<h3 align="center">
-  Software Engineering Student | Developer in Progress
-</h3>
+🎓 Estudante de Engenharia de Software na UniCesumar (4º semestre), com foco em desenvolvimento de sistemas, programação e construção de soluções digitais.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering;Learning+and+building+projects;Turning+ideas+into+code" />
-</p>
+Estou constantemente desenvolvendo minhas habilidades técnicas por meio de projetos práticos, estudos e participação em eventos de tecnologia. Tenho interesse em desenvolvimento Full Stack, arquitetura de software e criação de aplicações modernas.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Sobre mim
 
-- 🎓 Software Engineering student
-- 🌱 Currently learning and improving my development skills
-- 💡 Interested in software development and technology
-- 🚀 Building projects to turn knowledge into practice
+- 🎓 Graduando em Engenharia de Software.
+- 💻 Estudando e desenvolvendo projetos na área de tecnologia.
+- 🌐 Interesse em desenvolvimento Web e Full Stack.
+- 🧠 Aprimorando conhecimentos em lógica de programação e desenvolvimento de sistemas.
+- 🏆 Participante do Hackathon UniCesumar.
+- 🌎 Inglês avançado.
 
-### 🛠️ Technologies
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" />
+## 🛠️ Tecnologias e habilidades
+
+### Linguagens de programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js" />
 </p>
 
-### 📊 GitHub Stats
+### Desenvolvimento Web
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 📫 Connect with me
+### Banco de dados e ferramentas
 
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
+
+- SQL
+- Supabase
+
+### Modelagem 3D e visualização
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
+
+- Modelagem 3D com Blender (curso certificado).
+
+---
+
+## 💡 Projetos
+
+### 📦 Sistema de Cadastro de Produtos
+
+Aplicação desenvolvida com foco em gerenciamento de estoque e orçamento, aplicando lógica de programação e controle de dados.
+
+**Tecnologias utilizadas:**
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+
+### 🏆 Hackathon UniCesumar
+
+Participação em maratona de programação voltada à criação de soluções digitais, desenvolvimento de mockups, trabalho em equipe e arquitetura de soluções.
+
+---
+
+## 🎓 Formação
+
+**Engenharia de Software — UniCesumar**
+
+2025 – Atualmente
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Avançado
+- 🇪🇸 Espanhol — Básico
+
+---
+
+## 📫 Entre em contato
+
+<p align="left">
+  <a href="mailto:jvos15032006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jvos15032006-wq">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Always learning. Always building."</i>
+  <i>"Always learning, building and improving."</i>
 </p>
