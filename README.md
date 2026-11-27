@@ -75,11 +75,10 @@ An application developed for inventory and budget management, applying programmi
 - 🇪🇸 Spanish — Basic
 
 ---
-
-## 📫 Get in Touch
+📫 Get in Touch
 
 <p align="left">
-  <a href="mailto:jvos15032006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&to=joaoodsilva2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
