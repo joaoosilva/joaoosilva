@@ -81,13 +81,6 @@ Aplicação desenvolvida com foco em gerenciamento de estoque e orçamento, apli
   <a href="mailto:jvos15032006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/jvos15032006-wq">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Always learning, building and improving."</i>
 </p>
